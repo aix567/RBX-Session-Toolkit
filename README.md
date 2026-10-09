@@ -62,8 +62,7 @@ pacman -S --needed \
     mingw-w64-ucrt-x86_64-gcc \
     mingw-w64-ucrt-x86_64-sqlite3
 
----
-
+```
 ## Disclaimer
 
 ### Educational and Research Use Only
@@ -135,3 +134,4 @@ Do not disclose vulnerabilities publicly before the vendor has had a reasonable 
 By downloading, cloning, compiling, running, or otherwise using this software, you acknowledge that you have read and understood this disclaimer, that you agree to use the software only in compliance with applicable laws and this document, and that you accept full responsibility for any consequences of your use.
 
 If you do not agree, do not use this software.
+
